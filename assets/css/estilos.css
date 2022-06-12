@@ -15,6 +15,31 @@ body {
   color:black;
 }
 
+/*About me Section*/
+
+
+.icons_1{
+  color: greenyellow;
+  zoom: 2;
+}
+
+.icons_2{
+  color: gray;
+  zoom: 2;
+}
+
+.icons_3{
+  color: red;
+  zoom: 2;
+}
+.my-3{
+  text-align: justify;
+}
+.titles{
+  text-align: center;
+}
+
+
 
 /* Mis trabajos */
 
